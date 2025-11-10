@@ -7,4 +7,5 @@ add_executable(
         aoc22
         days/day01/main.c
         days/day02/main.c
+        days/day03/main.c
 )
